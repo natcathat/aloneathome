@@ -1,6 +1,6 @@
 {
   "name": "alone-at-home",
-  "version": "0.1.0",
+  "version": "12.13.0",
   "private": true,
   "dependencies": {
     "react": "^16.12.0",
